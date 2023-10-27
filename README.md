@@ -1,2 +1,2 @@
 # ios-professional
-Stephen DeStefano
+Stephen DeStefano course
